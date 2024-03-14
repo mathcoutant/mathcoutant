@@ -1,3 +1,3 @@
 ### Hi !
 
-Junior developper here !
+Junior developper here ! Experimenting on video games, neural networks, software development, etc.
