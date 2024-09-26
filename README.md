@@ -4,8 +4,8 @@
 
 <p>I'm experimenting on game development, neural networks and software development.</p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mathcoutant&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathcoutant&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="Contributions Graph" />
+  <img src="https://streak-stats.demolab.com?user=mathcoutant&locale=en&mode=daily&theme=soft-green&hide_border=false&border_radius=5" height="150" alt="Streak Graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathcoutant&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="Contributions Graph" />
 </div>
 
 ###
